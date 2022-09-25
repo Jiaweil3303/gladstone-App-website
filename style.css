@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background: linear-gradient(rgb(189, 189, 0) 0%, rgb(171, 0, 0) 100%);
+}
+h1:hover{
+transform: scale(1.5);
+}
+h1{
+    transition: 1s;
+    color:red;
+}
+ul:hover{
+    transform: scale(1.2)
+}
+ul{
+    transition: 0.5s;
+    
+}
+iframe:hover{
+transform: scale(1.43);
+}
+iframe{
+    
+    width: 1000px;
+    height: 600;
+}
+h2{
+    color:yellow;
+}
+p{
+    font-size:20px;
+}
+h3{
+    font-size:30px;
+    color: yellow;
+}
+h1{
+    width: 500px;
+}
